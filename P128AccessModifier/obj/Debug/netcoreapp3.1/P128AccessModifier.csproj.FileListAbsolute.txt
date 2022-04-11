@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\bin\Debug\netcoreapp3.1\P128AccessModifier.exe
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\bin\Debug\netcoreapp3.1\P128AccessModifier.deps.json
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\bin\Debug\netcoreapp3.1\P128AccessModifier.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\bin\Debug\netcoreapp3.1\P128AccessModifier.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\bin\Debug\netcoreapp3.1\P128AccessModifier.dll
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\bin\Debug\netcoreapp3.1\P128AccessModifier.pdb
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.dll
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.pdb
+C:\Users\memme\Desktop\P128\Task\P128AccessModifier\obj\Debug\netcoreapp3.1\P128AccessModifier.genruntimeconfig.cache
